@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**AxeeelG/AxeeelG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy [Axeel] 👋
 
-Here are some ideas to get you started:
+💻 Desarrollador de software en formación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interesado en Python, Inteligencia Artificial y Automatización.
+
+📚 Actualmente aprendiendo nuevas tecnologías y construyendo proyectos para mi portafolio profesional.
+
+## Tecnologías
+
+- Python
+- Git
+- GitHub
+- JavaScript
+- Inteligencia Artificial
+
+## Proyectos Destacados (aficionado)
+
+- funciones de la un carrito de compra
+- ayuda a compañera con herramientas desarrollada localmente 
+- bip bip papel
+- 
+
+## Contacto
+
+- LinkedIn: axeel.garcia
+- Correo: Axel.garcia.rdez@gmail.com
+- 
