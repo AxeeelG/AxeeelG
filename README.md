@@ -1,5 +1,14 @@
 
-# Hola, soy [Axeel] 👋
+# Hola, soy 
+```yaml                                 :
+     █████╗ ██╗  ██╗███████╗██╗     : 
+   ██╔══██╗╚██╗██╔╝██╔════╝██║     : 
+   ███████║ ╚███╔╝ █████╗  ██║     : 
+   ██╔══██║ ██╔██╗ ██╔══╝  ██║     : 
+   ██║  ██║██╔╝ ██╗███████╗███████╗: 
+   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝: 
+```                                     :
+
 
 💻 Desarrollador de software en formación
 
@@ -17,8 +26,8 @@
 
 ## Proyectos Destacados (aficionado)
 
-- funciones de la un carrito de compra
-- ayuda a compañera con herramientas desarrollada localmente 
+- funciones de un carrito de compra
+- ayuda a compañera con herramienta desarrollada localmente 
 - bip bip papel
 - 
 
@@ -26,4 +35,6 @@
 
 - LinkedIn: axeel.garcia
 - Correo: Axel.garcia.rdez@gmail.com
-- 
+
+
+
