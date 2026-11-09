@@ -1,19 +1,26 @@
 
 💻 Desarrollador de software en formación
 
+
 # ¡Hola! Soy Axel 👋
+
+ ```ini                             
+[
+  "  █████╗ ██╗  ██╗███████╗██╗     ",
+  " ██╔══██╗╚██╗██╔╝██╔════╝██║     ",
+  " ███████║ ╚███╔╝ █████╗  ██║     ",
+  " ██╔══██║ ██╔██╗ ██╔══╝  ██║     ",
+  " ██║  ██║██╔╝ ██╗███████╗███████╗",
+  " ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝"
+]
 ```
-```ini
-  █████╗ ██╗  ██╗███████╗██╗     :    ██╔══██╗╚██╗██╔╝██╔════╝██║     :   ███████║ ╚███╔╝ █████╗  ██║     :  ██╔══██║ ██╔██╗ ██╔══╝  ██║     :   ██║  ██║██╔╝ ██╗███████╗███████╗: 
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝: 
-```
-```                                   :
+                                
 
 
 💻 Desarrollador de software en formación
 
 # ¡Hola! Soy Axel 👋
-# ¡Hola! Soy Axel 👋
+
 
 ### 📊 Mis Estadísticas de GitHub
 ![Estadísticas de Axel](https://vercel.app)
@@ -22,7 +29,7 @@
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io) ![Bootstrap](https://shields.io) ![Git](https://shields.io) ![Figma](https://shields.io)
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io) ![Bootstrap](https://shields.io) ![Git](https://shields.io) ![Figma]
 
 ---
 
