@@ -1,49 +1,45 @@
-
 💻 Desarrollador de software en formación
 
+¡Hola! Soy Axel 👋
 
-# ¡Hola! Soy Axel 👋
-
- ```ini                             
-[
-  "  █████╗ ██╗  ██╗███████╗██╗     ",
-  " ██╔══██╗╚██╗██╔╝██╔════╝██║     ",
-  " ███████║ ╚███╔╝ █████╗  ██║     ",
-  " ██╔══██║ ██╔██╗ ██╔══╝  ██║     ",
-  " ██║  ██║██╔╝ ██╗███████╗███████╗",
-  " ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝"
-]
-```
-                                
-
-
-💻 Desarrollador de software en formación
-
-# ¡Hola! Soy Axel 👋
-
-
-### 📊 Mis Estadísticas de GitHub
-![Estadísticas de Axel](https://vercel.app)
-![Lenguajes más usados](https://vercel.app)
+Desarrollador en formación interesado en la construcción de soluciones de software, el desarrollo web y la programación.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io) ![Bootstrap](https://shields.io) ![Git](https://shields.io) ![Figma]
+📊 Mis estadísticas de GitHub
+
+"Estadísticas de Axel" (https://github-readme-stats.vercel.app/api?username=AxeeelG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+"Lenguajes más usados" (https://github-readme-stats.vercel.app/api/top-langs/?username=AxeeelG&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🚀 Modestos aficionados trabajos echos yo solo y/o colaboración
-Aquí puedes encontrar algunos de los proyectos en los que he trabajado y colaborado recientemente:
+🛠️ Tecnologías y Herramientas
 
-*   **[Laboratorio de Objetos - Clases y Arreglos](https://github.io)**: Un espacio interactivo en JavaScript diseñado para experimentar con la creación de instancias, constructores y la lógica de programación orientada a objetos de forma práctica.
-*   **[HackaShoes](https://github.io)**: Proyecto colaborativo desarrollado durante un hackatón enfocado en el diseño de una tienda en línea especializada en calzado deportivo, con integración de catálogo y flujo de carrito de compras.
+"Tecnologías" (https://skillicons.dev/icons?i=html,css,js,java,python,bootstrap,git,github,figma)
 
 ---
 
-### 🌐 Contáctame
-¡Estemos en comunicación! Puedes localizarme directamente a través de cualquiera de los siguientes medios digitales:
+🚀 Proyectos individuales y colaborativos
 
-[![GMAIL](https://shields.io)](mailto:Axel.garcia.rdez@gmail.com)
-[![WHATSAPP](https://shields.io)](https://wa.me)
-[![LINKEDIN](https://shields.io)](https://linkedin.com)
+Aquí puedes encontrar algunos de los proyectos en los que he trabajado y colaborado:
+
+- "Laboratorio de Objetos - Clases y Arreglos" (https://github.com/AxeeelG/Clases-y-arreglos-): Espacio interactivo en JavaScript para experimentar con instancias, constructores y programación orientada a objetos.
+
+- "HakaShoes" (https://github.com/mikael96/Hackashoes): Proyecto colaborativo desarrollado durante un hackatón de Generation. Consiste en una tienda en línea de calzado deportivo con catálogo y carrito de compras.
+
+- "Hola-mundo" (https://github.com/AxeeelG/Hola-mundo): Primer repositorio y espacio de experimentación con GitHub.
+
+---
+
+🌐 Contáctame
+
+¡Estemos en comunicación!
+
+""Gmail" (https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:Axel.garcia.rdez@gmail.com)
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/axeelgarcia/)
+
+---
+
+<sub>Perfil de GitHub: "@AxeeelG" (https://github.com/AxeeelG)</sub>
