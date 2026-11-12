@@ -1,45 +1,35 @@
-💻 Desarrollador de software en formación
+¡Hola! Soy
 
-¡Hola! Soy Axel 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AxeeelG/AxeeelG/main/assets/axel-header.svg" width="75%" alt="AXEL"/>
+</p><p align="center">
+  Desarrollador de software en formación | Java Full Stack Jr.
+</p><p align="center">
+  Aprendiendo, construyendo y mejorando mis habilidades en desarrollo de software.
+</p>---
 
-Desarrollador en formación interesado en la construcción de soluciones de software, el desarrollo web y la programación.
+Tecnologías
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>---
 
-📊 Mis estadísticas de GitHub
+Mi actividad en GitHub
 
-"Estadísticas de Axel" (https://github-readme-stats.vercel.app/api?username=AxeeelG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AxeeelG/AxeeelG/output/github-snake.svg" alt="Animación de contribuciones de GitHub"/>
+</p>---
 
-"Lenguajes más usados" (https://github-readme-stats.vercel.app/api/top-langs/?username=AxeeelG&layout=compact&theme=tokyonight&hide_border=true)
+Conecta conmigo
 
----
-
-🛠️ Tecnologías y Herramientas
-
-"Tecnologías" (https://skillicons.dev/icons?i=html,css,js,java,python,bootstrap,git,github,figma)
-
----
-
-🚀 Proyectos individuales y colaborativos
-
-Aquí puedes encontrar algunos de los proyectos en los que he trabajado y colaborado:
-
-- "Laboratorio de Objetos - Clases y Arreglos" (https://github.com/AxeeelG/Clases-y-arreglos-): Espacio interactivo en JavaScript para experimentar con instancias, constructores y programación orientada a objetos.
-
-- "HakaShoes" (https://github.com/mikael96/Hackashoes): Proyecto colaborativo desarrollado durante un hackatón de Generation. Consiste en una tienda en línea de calzado deportivo con catálogo y carrito de compras.
-
-- "Hola-mundo" (https://github.com/AxeeelG/Hola-mundo): Primer repositorio y espacio de experimentación con GitHub.
-
----
-
-🌐 Contáctame
-
-¡Estemos en comunicación!
-
-""Gmail" (https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:Axel.garcia.rdez@gmail.com)
-
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/axeelgarcia/)
-
----
-
-<sub>Perfil de GitHub: "@AxeeelG" (https://github.com/AxeeelG)</sub>
+<p align="center">
+  <a href="https://github.com/AxeeelG">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/axeelgarcia">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
